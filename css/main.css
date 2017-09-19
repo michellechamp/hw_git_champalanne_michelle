@@ -5,15 +5,25 @@ body {
 article {
     background: navy;
     width: 80%;
+    padding: 1%;
+    margin: auto;
+    margin-bottom: 2%;
 }
 
 h1 {
-    color: blue;
-    font-size: 15px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    color: orange;
+    margin-top: 2%;
     text-align: center;
 }
 
 p {
     color: white;
-    font-size: 8px;
+    font-size: 14px;
+    margin-left: 2%;
 }
