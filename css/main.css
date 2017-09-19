@@ -1,0 +1,19 @@
+body {
+    background: silver;
+}
+
+article {
+    background: navy;
+    width: 80%;
+}
+
+h1 {
+    color: blue;
+    font-size: 15px;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 8px;
+}
